@@ -2,7 +2,7 @@
 
 Solution-oriented Computer Scientist with a wide variety of professional experiences. Passionate about Cyber Security, programming, Linux System Administration, Windows Server Administration, data analysis, iOS App Development, and network troubleshooting.
 
-#### Technical Skills
+## Technical Skills
 * Open Source Intelligence
 * Cryptography
 * Password Cracking
@@ -12,12 +12,10 @@ Solution-oriented Computer Scientist with a wide variety of professional experie
 * Scannning & Reconnaissance
 
 ## Education
-Cyber Security					          			          	          Fall 2023 – Current
-Associate of Science in Computer Science					          Summer 2018 – Summer 2022
-Houston Community College
-Language and Culture Center (LCC) 					          Fall 2016 – Spring 2018 
-University of Houston – Houston, TX 
-Analyst Programmer 				           			          October 2006 – August 2009
+* Cyber Security(HCCS)					          			         Fall 2023 – Current
+* Associate of Science in Computer Science(HCCS)	   	       Summer 2018 – Summer 2022
+* Language and Culture Center (LCC) 	         	             Fall 2016 – Spring 2018
+* Analyst Programmer(African Institute of Computer Science)   October 2006 – August 2009
 African Institute of Computer Science – Libreville, Gabon
 
 ## Work Experience
