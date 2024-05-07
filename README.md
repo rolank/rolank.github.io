@@ -1,4 +1,4 @@
-# Cyber Security
+# Cyber Security  Bon 
 
 Solution-oriented Computer Scientist with a wide variety of professional experiences. Passionate about Cyber Security, programming, Linux System Administration, Windows Server Administration, data analysis, iOS App Development, and network troubleshooting.
 
@@ -47,6 +47,7 @@ International Business Machines (IBM) – Ndjamena, Chad
 
 #![Cyber Security](/download.png)
 
+![alt text](/linked.png)
 #![linked](/linked.png) 
 - [github](https://github.com/rolank/)
   
