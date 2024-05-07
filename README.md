@@ -46,7 +46,7 @@ International Business Machines (IBM) – Ndjamena, Chad
 
 ![Cyber Security](/download.png)    
 
-![NCL Certificate](/NCL_cert.pdf)
+![NCL Certificate](/NCL_cert.png)
 
 - [linkedin](https://www.linkedin.com/in/klahitar-roland-6798b16b/)
 - [github](https://github.com/rolank/)
