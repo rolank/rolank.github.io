@@ -1,11 +1,16 @@
-title: Roland Klahitar
-logo: Roland.jpeg
-#description: text below image
-show_downloads: true
-#theme: jekyll-theme-minimal
+
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+
+gem "github-pages", group: :jekyll_plugins
+
+title: [Roland Klahitar]
+description: [My Cyber Security Portfolio]
+
+show_downloads: "true" 
+logo: /Roland.jpeg
+
 
 Solution-oriented Computer Scientist with a wide variety of professional experiences. Passionate about Cyber Security, programming, Linux System Administration, Windows Server Administration, data analysis, iOS App Development, and network troubleshooting.
 
