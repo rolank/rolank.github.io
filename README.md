@@ -1,14 +1,14 @@
-![Roland Klahitar](/Roland.jpeg)
+![Cyber Security](/download.png)
 # Cyber Security
 
 #### Technical Skills
-Open Source Intelligence
-Cryptography 
-Password Cracking 
-Log Analysis
-Network Traffic Analysis
-Forensics
-Scannning & Reconnaissance
+• Open Source Intelligence
+• Cryptography 
+• Password Cracking 
+• Log Analysis
+• Network Traffic Analysis
+• Forensics
+• Scannning & Reconnaissance
 
 ## Education
 Cyber Security					          			          	          Fall 2023 – Current
@@ -47,6 +47,6 @@ International Business Machines (IBM) – Ndjamena, Chad
     • Programming Languages: Swift, SwiftUI, Shell script, Transact SQL, PL SQL, Python, PHP, JavaScript, HTML, CSS
     
 
-![Cyber Security](/download.png)
+#![Cyber Security](/download.png)
 
 - [Linked](https://www.linkedin.com/in/klahitar-roland-6798b16b/)
