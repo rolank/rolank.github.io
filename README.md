@@ -45,7 +45,7 @@ International Business Machines (IBM) – Ndjamena, Chad
 * Programming Languages: Swift, SwiftUI, Shell script, Transact SQL, PL SQL, Python, PHP, JavaScript, HTML, CSS
     
 
-#![Cyber Security](/download.png)
+![Cyber Security](/download.png)
 
 - [linkedin](https://www.linkedin.com/in/klahitar-roland-6798b16b/)
 - [github](https://github.com/rolank/)
