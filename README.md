@@ -12,9 +12,9 @@ Solution-oriented Computer Scientist with a wide variety of professional experie
 * Scannning & Reconnaissance
 
 ## Education
-* AAS in Cyber Security(HCC)         Fall 2023 – Sprint 2024
-* AS in Computer Science (HCC)     Summer 2018 – Summer 2022
-* Analyst Programmer(IAI)         October 2006 – August 2009
+* AAS in Cyber Security(HCC)             Fall 2023 – Sprint 2024
+* AS in Computer Science (HCC)         Summer 2018 – Summer 2022
+* Analyst Programmer(IAI)             October 2006 – August 2009
 
 ## Work Experience
 **Data Analyst @ IBM May 2011-March 2016**
