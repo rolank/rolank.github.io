@@ -1,13 +1,15 @@
 # Cyber Security
 
+Solution-oriented Computer Scientist with a wide variety of professional experiences. Passionate about Cyber Security, programming, Linux System Administration, Windows Server Administration, data analysis, iOS App Development, and network troubleshooting.
+
 #### Technical Skills
-• Open Source Intelligence
-• Cryptography 
-• Password Cracking 
-• Log Analysis
-• Network Traffic Analysis
-• Forensics
-• Scannning & Reconnaissance
+* Open Source Intelligence
+* Cryptography
+* Password Cracking
+* Log Analysis
+* Network Traffic Analysis
+* Forensics
+* Scannning & Reconnaissance
 
 ## Education
 Cyber Security					          			          	          Fall 2023 – Current
