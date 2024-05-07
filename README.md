@@ -12,10 +12,10 @@ Solution-oriented Computer Scientist with a wide variety of professional experie
 * Scannning & Reconnaissance
 
 ## Education
-* Cyber Security(HCCS)					          			         Fall 2023 – Current
-* Associate of Science in Computer Science(HCCS)	   	       Summer 2018 – Summer 2022
-* Language and Culture Center (LCC) 	         	             Fall 2016 – Spring 2018
-* Analyst Programmer(African Institute of Computer Science)   October 2006 – August 2009
+* Cyber Security(HCCS)					          			                 Fall 2023 – Current
+* Associate of Science in Computer Science(HCCS)	   	               Summer 2018 – Summer 2022
+* Language and Culture Center (LCC) 	         	                     Fall 2016 – Spring 2018
+* Analyst Programmer(IAI)                                             October 2006 – August 2009
 African Institute of Computer Science – Libreville, Gabon
 
 ## Work Experience
