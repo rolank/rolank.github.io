@@ -48,6 +48,6 @@ International Business Machines (IBM) – Ndjamena, Chad
 #![Cyber Security](/download.png)
 
 ![alt text](/linked.png)
-#![linked](/linked.png) 
+
 - [github](https://github.com/rolank/)
   
