@@ -43,9 +43,10 @@ International Business Machines (IBM) – Ndjamena, Chad
 * Use Segues and Navigation for Multi-Screen Apps.
 * Proficient in Model View Control design pattern, JSON parsing, Core Data, Core Location, API Integration, Networking, SQLite, and UITableView.
 * Programming Languages: Swift, SwiftUI, Shell script, Transact SQL, PL SQL, Python, PHP, JavaScript, HTML, CSS
-    
 
-![Cyber Security](/download.png)
+![Cyber Security](/download.png)    
+
+![NCL Certificate](/NCL_cert.pdf)
 
 - [linkedin](https://www.linkedin.com/in/klahitar-roland-6798b16b/)
 - [github](https://github.com/rolank/)
