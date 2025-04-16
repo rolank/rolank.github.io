@@ -6,6 +6,8 @@ Solution-oriented Computer Scientist with a wide variety of professional experie
 * HTML
 * CSS
 * JavaScript
+* Reack Components 
+* React Hooks
 * Open Source Intelligence
 * Cryptography
 * Password Cracking
