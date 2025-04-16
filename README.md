@@ -1,8 +1,11 @@
-# Cyber Security 
+# Software Developer 
 
 Solution-oriented Computer Scientist with a wide variety of professional experiences. Passionate about Cyber Security, programming, Linux System Administration, Windows Server Administration, data analysis, iOS App Development, and network troubleshooting.
 
 ## Technical Skills
+* HTML
+* CSS
+* JavaScript
 * Open Source Intelligence
 * Cryptography
 * Password Cracking
